@@ -6,3 +6,12 @@
   year={2000},
   organization={Association for Computational Linguistics}
 }
+
+@inproceedings{su1994corpus,
+  title={A corpus-based approach to automatic compound extraction},
+  author={Su, Keh-Yih and Wu, Ming-Wen and Chang, Jing-Shin},
+  booktitle={Proceedings of the 32nd annual meeting on Association for Computational Linguistics},
+  pages={242--247},
+  year={1994},
+  organization={Association for Computational Linguistics}
+}
